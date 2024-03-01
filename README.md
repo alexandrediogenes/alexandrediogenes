@@ -15,7 +15,7 @@ Git
 
 📫 Como me encontrar:
 
-LinkedIn: Seu perfil do LinkedIn
+LinkedIn: linkedin.com/in/alexandre-diogenes
 Email: alexandrediogenes92@gmail.com
 🤝 Vamos colaborar!
 Estou sempre aberto a colaborações interessantes e projetos inovadores. Se você está procurando um desenvolvedor front-end apaixonado e dedicado, entre em contato!
