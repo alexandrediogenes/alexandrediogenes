@@ -1,6 +1,25 @@
-## Olá sou Alexandre Diógenes
-- 🔭 Hj trabalho como técnico em telecomonicações/ e estou na transição de carreira para Full stack
-- 🌱 Estudando Java Script/ CSS/ HTML/ Node.js/ react
+## 👋 Bem-vindo ao meu perfil sou Alexandre Diógenes!
+
+Sou um desenvolvedor front-end com uma paixão por criar interfaces de usuário excepcionais e funcionais. Minha experiência se concentra em Angular, React, JavaScript e Node.js, e estou constantemente explorando novas maneiras de aprimorar minhas habilidades e aprender novas tecnologias.
+
+🚀 Principais tecnologias e ferramentas:
+
+Angular
+React
+JavaScript / TypeScript
+Node.js
+HTML5 / CSS3 / Sass
+Figma
+Git
+💼 Projetos notáveis:
+
+📫 Como me encontrar:
+
+LinkedIn: Seu perfil do LinkedIn
+Email: seuemail@example.com
+Site pessoal: Seu site pessoal
+🤝 Vamos colaborar!
+Estou sempre aberto a colaborações interessantes e projetos inovadores. Se você está procurando um desenvolvedor front-end apaixonado e dedicado, entre em contato!
 
 <div align="center">
   <a href="https://github.com/alexandrediogenes">
