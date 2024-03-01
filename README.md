@@ -16,8 +16,7 @@ Git
 📫 Como me encontrar:
 
 LinkedIn: Seu perfil do LinkedIn
-Email: seuemail@example.com
-Site pessoal: Seu site pessoal
+Email: alexandrediogenes92@gmail.com
 🤝 Vamos colaborar!
 Estou sempre aberto a colaborações interessantes e projetos inovadores. Se você está procurando um desenvolvedor front-end apaixonado e dedicado, entre em contato!
 
