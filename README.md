@@ -1,6 +1,6 @@
 ## 👋 Bem-vindo ao meu perfil sou Alexandre Diógenes!
 
-Sou um desenvolvedor front-end com uma paixão por criar interfaces de usuário excepcionais e funcionais. Minha experiência se concentra em Angular, React, JavaScript e Node.js, e estou constantemente explorando novas maneiras de aprimorar minhas habilidades e aprender novas tecnologias.
+Sou um desenvolvedor Fullstack com uma paixão por criar interfaces de usuário excepcionais e funcionais. Minha experiência se concentra em Angular, React, JavaScript e Node.js, e estou constantemente explorando novas maneiras de aprimorar minhas habilidades e aprender novas tecnologias.
 
 🚀 Principais tecnologias e ferramentas:
 
